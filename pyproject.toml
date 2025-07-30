@@ -1,0 +1,11 @@
+[project]
+name = "vid"
+version = "0.1.0"
+description = "AI video summarizer that extracts key frames, transcribes audio, and generates concise summaries using multimodal AI."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ollama>=0.5.1",
+    "openai-whisper>=20250625",
+    "opencv-python>=4.12.0.88",
+]
