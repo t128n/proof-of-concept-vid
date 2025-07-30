@@ -1,6 +1,6 @@
 # vid: AI Video Summarizer
 
-vid is a proof-of-concept AI video summarizer that combines video processing and state-of-the-art AI models to generate concise summaries of video content. It leverages frame extraction, audio transcription, and multimodal AI (Gemma via Ollama) to produce high-signal, low-noise video summaries.
+vid is a proof-of-concept AI video summarizer that combines video processing and state-of-the-art AI models to generate concise summaries of video content. It leverages frame extraction, audio transcription, and multimodal AI (Gemma via Ollama) to produce video summaries.
 
 ![System Overview](system.png)
 
